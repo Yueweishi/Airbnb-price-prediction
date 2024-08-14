@@ -1,4 +1,4 @@
-This project has two parts. Both of them aims to prediction the price of airbnb. 
+This project has two parts. Both of them aims to predict the price of airbnb. 
 
 In Part 1, we use the airbnb listing data. And use PCA, Random Forest and XGBoost to conduct feature engineering, then use Random Forest and XGBoost to predict the price. Also, we use the time series to predict.
 
